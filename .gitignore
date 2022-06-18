@@ -1,0 +1,2 @@
+# ignore java file as shell script program are present
+*.java
